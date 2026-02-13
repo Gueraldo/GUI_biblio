@@ -43,6 +43,9 @@ CREATE TABLE Transactions (
 ```
 The goal of this project is to transform the way a library is working, from keeping tracks of the loans of books, memberships, etc in an excel file, to a more convenient version using a GUI and loading all the information in a database file.
 
+
+The GUI was created using the Qt User Interface Compiler.
+
 ## Next steps
 
 The next steps here are to implement the writing into the database from the GUI, and also the availability of a true database. 
